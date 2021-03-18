@@ -1,0 +1,1 @@
+Python GUI script that create Youtube Thumbnails automaticly
