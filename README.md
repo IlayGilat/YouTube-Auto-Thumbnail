@@ -5,8 +5,6 @@ Python GUI script that create Youtube Thumbnails automaticly
 ## Prerequisites
 * Pillow
 * cv2
-* tkinter
-
 
 ### To install and run
 
