@@ -5,6 +5,7 @@ from tkinter import messagebox,filedialog,Text,Entry
 from random import *
 from PIL import Image,ImageDraw,ImageFont,ImageFilter
 
+#SD
 
 root = tk.Tk()
 root.resizable(False,False)
